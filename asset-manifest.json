@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tempcalc/static/css/main.63e21510.css",
+    "main.js": "/tempcalc/static/js/main.7f166e99.js",
+    "static/js/453.98875ef2.chunk.js": "/tempcalc/static/js/453.98875ef2.chunk.js",
+    "index.html": "/tempcalc/index.html",
+    "main.63e21510.css.map": "/tempcalc/static/css/main.63e21510.css.map",
+    "main.7f166e99.js.map": "/tempcalc/static/js/main.7f166e99.js.map",
+    "453.98875ef2.chunk.js.map": "/tempcalc/static/js/453.98875ef2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e21510.css",
+    "static/js/main.7f166e99.js"
+  ]
+}
